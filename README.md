@@ -1,1 +1,4 @@
-# python-fpdf2-line-graph
+# python-line-graph
+python-line graph
+
+Proyecto en desarrollo.
